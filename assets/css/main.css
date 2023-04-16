@@ -1,0 +1,297 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+header {
+	padding-bottom: 30px;
+}
+
+.page-title {
+	font-size: 2rem;
+}
+
+.subtitle {
+	font-size: 1.3rem
+}
+
+#nav a:hover {
+	color: firebrick;
+}
+
+#nav a {
+	font-family: serif;
+}
+
+#down_panel p {
+	margin-bottom: 35px;
+}
+
+body figcaption {
+	margin-top: 8px;
+}
+
+.fa-diamond {
+	color: rgb(0, 0, 255);
+}
+
+#uphead {
+	height: auto;
+	padding-bottom: 30px;
+
+}
+
+#content {
+	height: auto;
+}
+
+
+#footer {
+	height: auto;
+	background-color: #eeeeeeef;
+	padding-bottom: 5px;
+	margin-top: 80px;
+}
+
+#footer>.row {
+	justify-content: space-around;
+}
+
+#footer p {
+	font-size: small;
+	font-style: italic;
+}
+
+#footer a {
+	color: rgb(137, 137, 167);
+	font-size: small;
+	font-style: italic;
+}
+
+#footer img {
+	max-width: 20px;
+}
+
+.heading {
+	padding-top: 20px;
+}
+
+.heading h5,
+h3 {
+	margin-top: -5px;
+}
+
+.heading small {
+	color: grey;
+}
+
+.dropdown-item img {
+	max-width: 20px;
+}
+
+.tabela img {
+	width: auto;
+	float: left;
+	max-width: 35px;
+}
+
+.tabela th {
+	color: rgb(76, 83, 146)
+}
+
+.tabela span {
+	font-weight: bold;
+	color: rgb(88, 80, 80);
+}
+
+.tabela small {
+	color: grey;
+}
+
+
+.cryp_calc {
+	color: rgb(134, 42, 219);
+	font-weight: bold;
+}
+
+.fiat_calc {
+	color: rgb(25, 118, 134);
+	font-weight: bold;
+}
+
+.img-fiat {
+	max-width: 25px;
+}
+
+#eur,
+#usd,
+#gbp,
+#chf {
+	color: firebrick;
+}
+
+.currencies {
+	color: green;
+	font-weight: bold;
+}
+
+#fiat h5 {
+	padding-bottom: 10px;
+}
+
+#info_card {
+	font-size: medium;
+}
+
+#lastnews img {
+	max-width: 65px;
+}
+
+#lastnews {
+	margin-top: 20px;
+}
+
+#time-nw {
+	color: grey;
+	font-size: small;
+}
+
+#lastnews p {
+	margin-bottom: 0px;
+}
+
+#calculator {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#chart {
+	margin-top: 20px;
+}
+
+#accordion {
+	padding-bottom: 40px
+}
+
+
+#accordion img {
+	float: left;
+	max-width: 65px;
+}
+
+.title {
+	cursor: pointer;
+}
+
+.news-category {
+	font-size: small;
+	color: grey;
+}
+
+#feed-list {
+	height: 210px;
+	overflow: auto;
+}
+
+#feed-list li {
+	max-height: 100px;
+	background-color: #F8F9FB;
+	padding: 3px;
+}
+
+#feed-list span {
+	color: black;
+}
+
+#feed-list img {
+	max-width: 40px;
+	float: left;
+}
+
+.newsy-ind {
+	padding-top: 50px;
+	margin-bottom: 20px;
+}
+
+
+#head-indyvidualpage img {
+	max-width: 70px;
+}
+
+.jumbotron {
+	padding-top: 20px;
+	padding-bottom: 0;
+	padding-left: 10px;
+}
+
+.jumbotron h6 {
+	font-weight: bold;
+}
+
+.value-ind-right {
+	padding-left: 10px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+[data-name="calc"] {
+	color: rgb(27, 83, 139);
+}
+
+#calpg-list {
+	padding-bottom: 30px;
+}
+
+[data-name="high"] {
+	color: green;
+}
+
+[data-name="low"] {
+	color: red;
+}
+
+
+[data-name="price-pln"] {
+	font-size: xx-large;
+	color: green;
+	font-weight: bold;
+
+}
+
+#well_price span {
+	font-size: large;
+	color: grey;
+	font-weight: bold;
+}
+
+.fa-level-up {
+	color: green;
+}
+
+.fa-level-down {
+	color: red;
+}
+
+
+#valueinput {
+	margin-top: 20px;
+}
+
+#calculator_pg {
+	margin-bottom: 50px;
+}
+
+
+.calc-value {
+	font-weight: 600
+}
+
+.crypto-value {
+	color: rgba(24, 0, 129, 0.473)
+}
+
+.fiat-value {
+	color: rgb(39, 119, 115)
+}
